@@ -15,8 +15,6 @@ export default function AppNavigation (){
   
 
     function setIcon(route, routeStatus){
-        console.log("route: ",route);
-        console.log("routeStatus: ",routeStatus);
         let iconName = "";
 
         switch (route.name) {
