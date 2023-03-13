@@ -1,4 +1,4 @@
-# Pamsho.dev
+# App movil tipo E-commerce
 
 Es una aplicacion tipo e-commerce hecha con React Native y otras tecnologias.
 
